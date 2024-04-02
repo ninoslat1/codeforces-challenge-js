@@ -1,4 +1,4 @@
-var liter = readline()
+var liter = parseInt(readline())
 var array = []
 var sum = 0
 
